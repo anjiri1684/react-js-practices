@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://plus.unsplash.com/premium_photo-1722938907181-08d806f7b9a6?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    },
+    {
+      "title": "A new event",
+      "image": "https://images.unsplash.com/photo-1719937051157-d3d81cc28e86?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "date": "2024-08-09",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c4000y7ffeoa9"
+    }
+  ],
+  "users": [
+    {
+      "email": "vincentanjiri12@gmail.com",
+      "password": "$2a$12$QIfohpN9xRSop7vie2GLJ.5toCdxFjucmrQrEk/ey0fjH95SCL.BK",
+      "id": "7b8914e4-8c93-4030-8615-18ae86d30704"
+    }
+  ]
+}
